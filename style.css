@@ -5,7 +5,7 @@
   font-family: "Poppins", sans-serif;
 }
 body {
-  background-color: #f47174;
+  background-color: #f1e5ac;
 }
 .container {
   height: 450px;
@@ -18,7 +18,7 @@ body {
 .shapes {
   height: 250px;
   width: 250px;
-  background: linear-gradient(45deg, #b507a7, #fa80f0);
+  background: linear-gradient(45deg, #000080, #15253f);
   border-radius: 50%;
   position: absolute;
   right: 0;
@@ -29,7 +29,7 @@ body {
   height: 250px;
   width: 250px;
   top: 197px;
-  background: linear-gradient(45deg, #0756b5, #80affa);
+  background: linear-gradient(45deg, #960019, #b80f0a);
   border-radius: 50%;
   right: 347px;
 }
